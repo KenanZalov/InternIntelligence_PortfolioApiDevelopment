@@ -76,9 +76,7 @@ The API is designed for users who want to showcase their portfolios online. Each
 
 ---
 
-## How to Run
-
-1. Installation and Setup:
+## Installation and Setup:
    ```bash
    git clone https://github.com/KenanZalov/InternIntelligence_PortfolioApiDevelopment
    cd InternIntelligence_PortfolioApiDevelopment
